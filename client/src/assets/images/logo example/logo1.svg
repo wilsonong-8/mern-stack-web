@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="184" height="80" viewBox="5.138 152.531 250.982 140.58" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <path id="path-0" d="M 147.5 180.194 C 189.702 180.194 216.957 180.194 244.212 180.194 L 245.565 180.194 C 247.657 180.194 247.613 180.648 247.779 179.073" style="fill: none;"/>
+    <path id="path-1" d="M 160.577 212.93 C 188.826 212.93 205.221 212.93 221.616 212.93 L 222.056 212.93 C 222.559 212.737 223.113 212.412 223.616 212.219" style="fill: none;"/>
+    <path id="path-2" d="M 161.878 249.461 C 203.469 249.461 234.243 249.461 265.017 249.461 L 267.726 249.461 C 268.644 249.461 269.562 249.461 270.481 249.461" style="fill: none;"/>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="12" y1="3" x2="12" y2="21" id="gradient-0" gradientTransform="matrix(0.554456, 0.832213, -1.121506, 0.827868, 18.056139, -6.672488)">
+      <stop offset="0" style="stop-color: rgba(84, 43, 195, 0.91);"/>
+      <stop offset="1" style="stop-color: rgba(23, 6, 68, 0.74)"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="179.413" y1="187.758" x2="179.413" y2="218.822" id="gradient-2" gradientTransform="matrix(0.011308, 1.096143, -1.02755, 0.012739, 385.688911, 7.281242)">
+      <stop offset="0" style="stop-color: rgba(54, 15, 161, 0.94)"/>
+      <stop offset="1" style="stop-color: rgba(23, 6, 68, 0.94)"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="191.598" y1="224.066" x2="191.598" y2="255.409" id="gradient-3" gradientTransform="matrix(-0.007477, 0.858304, -1.683408, -0.010805, 595.675161, 77.502635)">
+      <stop offset="0" style="stop-color: rgba(54, 15, 161, 0.93)"/>
+      <stop offset="1" style="stop-color: rgba(23, 6, 68, 0.93)"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="170.948" y1="154.781" x2="170.948" y2="186.312" id="gradient-1">
+      <stop offset="0" style="stop-color: rgba(61, 19, 175, 0.9)"/>
+      <stop offset="1" style="stop-color: rgba(29, 9, 83, 0.9)"/>
+    </linearGradient>
+  </defs>
+  <g transform="matrix(4.604849, 0, 0, 4.604849, 119.411201, 37.18317)">
+    <path fill="#FFF" d="M30 5h2v2h-2z"/>
+  </g>
+  <g transform="matrix(4.722922, 0, 0, 4.722922, 31.520582, 231.064026)"/>
+  <g transform="matrix(5.246133, 0, 0, 5.246133, 205.790497, 229.223068)">
+    <g>
+      <path fill="none" d="M0 0h24v24H0z"/>
+    </g>
+  </g>
+  <g transform="matrix(7.084383, 0, 0, 7.084383, -8.203612, 136.735962)">
+    <g>
+      <path d="M0 0h24v24H0z" fill="none"/>
+      <path d="M9 19h3v-6.058L8 9.454l-4 3.488V19h3v-4h2v4zm12 2H3a1 1 0 0 1-1-1v-7.513a1 1 0 0 1 .343-.754L6 8.544V4a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1zm-5-10v2h2v-2h-2zm0 4v2h2v-2h-2zm0-8v2h2V7h-2zm-4 0v2h2V7h-2z" style="paint-order: fill; fill: url(#gradient-0);"/>
+    </g>
+  </g>
+  <text style="fill: url(#gradient-1); fill-rule: evenodd; font-family: Arial, sans-serif; font-size: 28px; paint-order: fill; white-space: pre;" transform="matrix(1.271086, 0, 0, 1.315054, -36.797272, -43.052425)"><textPath xlink:href="#path-0">Sell</textPath></text>
+  <text style="fill: url(#gradient-2); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" transform="matrix(1.251233, 0, 0, 1.141414, -48.491169, -15.337227)"><textPath xlink:href="#path-1">My</textPath></text>
+  <text style="fill: url(#gradient-3); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" transform="matrix(1.733768, 0, 0, 2.019935, -129.548141, -227.375336)"><textPath xlink:href="#path-2">HDB</textPath></text>
+</svg>
